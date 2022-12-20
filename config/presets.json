@@ -1,0 +1,11 @@
+{
+    "results": {
+        "position": "flex flex-col gap-5",
+        "title": "text-h5",
+        "brief_description": "hidden mt-1 md:block text-grey-10",
+        "full_description": "line-clamp-2 intro"
+    },
+    "auxiliary_page": {
+        "job_details": "flex flex-col flex-wrap break-words xl:flex-row gap-x-12 gap-y-4"
+    }
+}

@@ -1,0 +1,14 @@
+---
+base_url: https://www.pro-industry.nl/vacatures
+pagination: pagenum
+agent: "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:61.0) Gecko/20100101 Firefox/61.0"
+save_to_csv: true
+verbose_logging: true
+output_file: results.csv
+sleep_time: 0.1
+page_limit: 10  # null or integer
+
+retry:
+  connect: 10
+  read: 10
+  redirect: 10
